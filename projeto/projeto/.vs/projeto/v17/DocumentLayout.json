@@ -1,34 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\exercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\exercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\exercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\projeto.csproj|c:\\users\\aluno\\documents\\github\\exercicios_lista\\projeto\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|c:\\users\\aluno\\documents\\github\\exercicios\\projeto\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\projeto.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\projeto.csproj|solutionrelative:projeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AA392B-5949-4E75-AE50-D4CEA7ACC912}|projeto\\exercicio8.csproj|solutionrelative:projeto\\exercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,65 +62,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "exercicio11.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio11.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio11.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio11.cs",
+              "RelativeToolTip": "projeto\\exercicio11.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:01:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "exercicio10.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio10.cs",
-              "RelativeDocumentMoniker": "projeto\\exercicio10.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio10.cs [Design]",
-              "RelativeToolTip": "projeto\\exercicio10.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:36:56.787Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "exercicio10.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio10.cs",
-              "RelativeDocumentMoniker": "projeto\\exercicio10.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio10.cs",
-              "RelativeToolTip": "projeto\\exercicio10.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T12:52:48.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "exercicio12.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio12.cs",
-              "RelativeDocumentMoniker": "projeto\\exercicio12.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio12.cs [Design]",
-              "RelativeToolTip": "projeto\\exercicio12.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:07:42.214Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "exercicio12.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio12.cs",
-              "RelativeDocumentMoniker": "projeto\\exercicio12.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio12.cs",
-              "RelativeToolTip": "projeto\\exercicio12.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:12:34.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "exercicio13.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio13.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio13.cs",
               "RelativeDocumentMoniker": "projeto\\exercicio13.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\exercicio13.cs [Design]",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio13.cs [Design]",
               "RelativeToolTip": "projeto\\exercicio13.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T13:15:35.129Z",
@@ -104,28 +91,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\Form1.cs",
+              "DocumentIndex": 0,
+              "Title": "exercicio13.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio13.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio13.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio13.cs",
+              "RelativeToolTip": "projeto\\exercicio13.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:03:45.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "exercicio12.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio12.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio12.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio12.cs",
+              "RelativeToolTip": "projeto\\exercicio12.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:12:34.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exercicio10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio10.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio10.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio10.cs [Design]",
+              "RelativeToolTip": "projeto\\exercicio10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:36:56.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "exercicio12.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio12.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio12.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio12.cs [Design]",
+              "RelativeToolTip": "projeto\\exercicio12.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:07:42.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exercicio11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio11.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio11.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio11.cs [Design]",
+              "RelativeToolTip": "projeto\\exercicio11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:59:18.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "exercicio9.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio9.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio9.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio9.cs",
+              "RelativeToolTip": "projeto\\exercicio9.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:54:24.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "exercicio9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio9.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio9.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio9.cs [Design]",
+              "RelativeToolTip": "projeto\\exercicio9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:53:31.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\Form1.cs",
               "RelativeDocumentMoniker": "projeto\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\Form1.cs [Design]",
+              "RelativeToolTip": "projeto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:24:48.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exercicio10.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio10.cs",
+              "RelativeDocumentMoniker": "projeto\\exercicio10.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\exercicio10.cs",
+              "RelativeToolTip": "projeto\\exercicio10.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwD8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T12:52:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\Form1.cs",
+              "RelativeDocumentMoniker": "projeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\Form1.cs",
               "RelativeToolTip": "projeto\\Form1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCoAAAAkAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T12:12:05.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios\\projeto\\projeto\\projeto\\Form1.cs",
               "RelativeDocumentMoniker": "projeto\\Form1.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_lista\\projeto\\projeto\\projeto\\Form1.cs [Design]",
-              "RelativeToolTip": "projeto\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\exercicios_lista\\projeto\\projeto\\projeto\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T12:06:44.809Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-04T12:06:44.809Z"
             }
           ]
         }

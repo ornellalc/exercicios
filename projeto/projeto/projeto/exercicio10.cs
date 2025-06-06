@@ -26,6 +26,9 @@ namespace projeto
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            label2.Text += "";
+
             if (checkBox1.Checked)
             {
                 label2.Text += checkBox1.Text;
