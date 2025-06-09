@@ -27,10 +27,11 @@ namespace projeto
         private void button1_Click(object sender, EventArgs e)
         {
 
-            label2.Text += "";
+            label2.Text = "Pedido:  ";
 
             if (checkBox1.Checked)
             {
+                label2.Text += "";
                 label2.Text += checkBox1.Text;
             }
             else
@@ -41,6 +42,7 @@ namespace projeto
 
             if (checkBox2.Checked)
             {
+                label2.Text += "";
                 label2.Text += checkBox2.Text;
             }
             else
@@ -51,6 +53,7 @@ namespace projeto
 
             if (checkBox3.Checked)
             {
+                label2.Text += "";
                 label2.Text += checkBox3.Text;
             }
             else
@@ -61,6 +64,7 @@ namespace projeto
 
             if (checkBox4.Checked)
             {
+                label2.Text += "";
                 label2.Text += checkBox4.Text;
             }
 

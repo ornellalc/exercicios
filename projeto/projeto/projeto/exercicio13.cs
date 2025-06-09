@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.Common;
 using System.Drawing;
 using System.Linq;
 using System.Reflection.Emit;
@@ -14,15 +15,22 @@ namespace projeto
 {
     public partial class exercicio13 : Form
     {
-        List<string> categoriaSelecionadas = new List<string>();
 
         public class produtos
         {
-            public string nome;
-            public string categoria;
-            public string preco;
+            public string nome{ get; set; }
+            public string categoria { get; set; }
+            public string preco { get; set; }
+            
+            public override string  ToString()
+            {
+                return $" {nome} {categoria} - {preco}";
+            }
+
         }
         private List<produtos> Listaprodutos;
+
+        private List<string>categoriaSelecionadas = new List<string>();
 
 
         public exercicio13()
@@ -33,11 +41,9 @@ namespace projeto
             {
                  new produtos {nome= "celular", categoria="eletrônico", preco="2500"},
                  new produtos {nome= "camiseta", categoria="roupa", preco="80"},
-                 new produtos {nome= "percy jackson", categoria="livro", preco="45"},
+                 new produtos {nome= "livro c#", categoria="livro", preco="45"},
                  new produtos {nome= "cookie", categoria="alimento", preco="8"},
             };
-           
-
         }
 
         private void exercicio13_Load(object sender, EventArgs e)
@@ -47,36 +53,69 @@ namespace projeto
 
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
         {
-            categoriaSelecionadas.Add("Livros");
+            categoriaSelecionadas.Add("livro");
             
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            categoriaSelecionadas.Add("Eletrônicos");
+            categoriaSelecionadas.Add("eletrônico");
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            categoriaSelecionadas.Add("Roupas");
+            categoriaSelecionadas.Add("roupa");
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
-            categoriaSelecionadas.Add("Alimentos");
+            categoriaSelecionadas.Add("alimento");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (categoriaSelecionadas.Count == 0)
+            listBox1.Items.Clear();
+
+            if (checkBox1.Checked == false)
             {
-                foreach (var produto in Listaprodutos)
-                {
-                    listBox1.Items.Add(produto);
-                }
+                categoriaSelecionadas.Remove("eletrônico");
+
+            }
+            if (checkBox2.Checked == false)
+            {
+                categoriaSelecionadas.Remove("roupa");
+            }
+            if (checkBox3.Checked == false)
+            {
+                categoriaSelecionadas.Remove("alimento");
+            }
+            if (checkBox4.Checked == false)
+            {
+                categoriaSelecionadas.Remove("livro"); 
             }
 
-            
+
+
+            if (categoriaSelecionadas.Count == 0)
+            {
+                listBox1.Items.Add("Nenhuma categoria selecionada!");
+            }
+            else 
+            {
+                var produtosfiltrados = Listaprodutos.Where(
+                    p => categoriaSelecionadas.Contains(p.categoria)).ToList();
+                if (produtosfiltrados.Any())
+                {
+                    foreach(var produtos in produtosfiltrados)
+                    {
+                        listBox1.Items.Add(produtos);
+                    }
+                }
+                else
+                {
+                    listBox1.Items.Add("nenhum produto encontrado");
+                }
+            }
         }
     }
 }
